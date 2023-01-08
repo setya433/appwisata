@@ -2,7 +2,7 @@
 
 Dibuat oleh:
 
-- Candra Nur Hidayat : NIM (3.34.21.0.07)
+- Herlambang Setya Adi saputra (3.34.21.0.12)
 
 ## Slight Overview The App
 
